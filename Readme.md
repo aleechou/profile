@@ -219,6 +219,19 @@ ___窝Q代码的其他用途___
 
 后来在朋友的介绍下，我帮助国内知名社区[落伍者论坛](http://www.im286.com)，使用窝Q的核心代码实现了论坛用户的QQ账号自动认证。
 
+## 京东(jd.com)数字音乐商城MP3/MP4播放器[http://music.jd.com] (http://music.jd.com)
+
+参与了京东数字音乐商城项目，所有类型的播放器（MP3播放器，MV视频播放器，试听播放器，付费后的单曲播放器，专辑播放器，以及电台播放器）的开发小组由我负责。
+
+
+<img src="screens/jd-0.png" width="400px">
+
+<img src="screens/jd-1.png" width="400px">
+
+<img src="screens/jd-2.png" width="400px">
+
+<img src="screens/jd-3.png" width="400px">
+
 ## 房市網
 
 房市網，[http://www.funce.com](http://www.funce.com)，开发时间大约于 2005 到 2008年，是一个在台湾地区运营的房地产交易网站（类似于搜房网）。
@@ -257,6 +270,8 @@ ___窝Q代码的其他用途___
 <img src="screens/realknowledge-3.png" width="400px">
 
 <img src="screens/realknowledge-4.png" width="400px">
+
+## 
 
 ## I,Cell
 

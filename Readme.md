@@ -225,6 +225,16 @@ ___窝Q代码的其他用途___
 
 房市網是我早期的工作，由我独立地完成整个网站的开发，使用 PHP4 ，MySQL4 。
 
+## “两者”
+
+"两者"是一家男鞋品牌商城网站该网站使用Node.js框架 蜂巢 开发，其CSS采用了“响应式布局”，能够自动适应移动设备，完全符合现代互联网标准（web 2.0/3.0）。按照客户的要求，该网站计划于今年秋季上线。
+
+<img src="screens/both-0.png" width="400px">
+
+<img src="screens/both-1.png" width="400px">
+
+<img src="screens/both-2.png" width="400px">
+
 ## 真知保护
 
 [http://www.knowledge.com.cn](http://www.knowledge.com.cn)
@@ -236,6 +246,17 @@ ___窝Q代码的其他用途___
 在这个项目中，我负责实现系统的设计/架构，核心代码的开发，组建和管理团队，并负责和客户进行需求的沟通，以及合作单位的技术对接（该项目是和浙江电信互联星空联合运营的）。
 
 为这个项目，我组织了大约 12名程序员和美工，在开发上花费了6个月的时间。
+
+
+<img src="screens/realknowledge-0.png" width="400px">
+
+<img src="screens/realknowledge-1.png" width="400px">
+
+<img src="screens/realknowledge-2.png" width="400px">
+
+<img src="screens/realknowledge-3.png" width="400px">
+
+<img src="screens/realknowledge-4.png" width="400px">
 
 ## I,Cell
 

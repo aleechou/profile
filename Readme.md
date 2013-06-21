@@ -309,9 +309,7 @@ Demo：[http://games.jecat.cn/icell] (http://games.jecat.cn/icell)
 
 <img src="screens/ddt-4.png" width="400px">
 
----
 
-# 自我评价
 
 
 

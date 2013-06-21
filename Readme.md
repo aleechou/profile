@@ -43,15 +43,15 @@ ___Programe Language___
 
 * 精通前端 Html4/5 JavaScript 。
 
-* 精通没有前途，但眼下尚保有余热的 Flash ActionScript 1.0 和 3.0。
+* 精通虽然没有前途，但眼下尚保有余热的 Flash ActionScript 1.0 和 3.0。
 
 
 
 ## 桌面开发
 
-* 精通 VC/Windows API 开发（对VC的使用仅限 MFC，没做过.NET开发）。
+* 熟悉 VC/Windows API 开发（对VC的使用仅限 MFC，没做过.NET开发）。
 
-* 精通 Qt4/5 针对 Windows/MacOSX/Linux 上的跨平台开发。
+* 熟悉 Qt4/5 针对 Windows/MacOSX/Linux 上的跨平台开发。
 
 * 熟悉在 Windows 使用 ActiveX 开发IE插件。
 
@@ -251,10 +251,27 @@ ___窝Q代码的其他用途___
 
 《我，细胞》还提供了一个功能完善的关卡编辑器，由玩家来自由编辑关卡。
 
+Github: [https://github.com/JeCat/games-icell] (https://github.com/JeCat/games-icell)
+
+Demo：[http://games.jecat.cn/icell] (http://games.jecat.cn/icell)
+
 ## 钓钓堂
 
+《钓钓堂》是一款钓鱼题材的页游，在游戏中玩家组队进入渔场（房间），每个房间分为两队，每队4名玩家。玩家需要驾驶游艇，寻找鱼群，钓鱼或使用道具干扰其他玩家钓鱼。游戏结束后，按照团队计算成绩。
 
+* Server: Java 6 SE
 
+* Client: Flash Action Script 3
+
+<img src="screens/ddt-0.png" width="400px">
+
+<img src="screens/ddt-1.png" width="400px">
+
+<img src="screens/ddt-2.png" width="400px">
+
+<img src="screens/ddt-3.png" width="400px">
+
+<img src="screens/ddt-4.png" width="400px">
 
 ---
 

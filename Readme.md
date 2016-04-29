@@ -219,7 +219,9 @@ ___窝Q代码的其他用途___
 
 后来在朋友的介绍下，我帮助国内知名社区[落伍者论坛](http://www.im286.com)，使用窝Q的核心代码实现了论坛用户的QQ账号自动认证。
 
-## 京东(jd.com)数字音乐商城MP3/MP4播放器[http://music.jd.com] (http://music.jd.com)
+## 京东(jd.com)数字音乐商城MP3/MP4播放器
+
+[http://music.jd.com] (http://music.jd.com)
 
 参与了京东数字音乐商城项目，所有类型的播放器（MP3播放器，MV视频播放器，试听播放器，付费后的单曲播放器，专辑播放器，以及电台播放器）的开发小组由我负责。
 
@@ -238,15 +240,6 @@ ___窝Q代码的其他用途___
 
 房市網是我早期的工作，由我独立地完成整个网站的开发，使用 PHP4 ，MySQL4 。
 
-## “两者”
-
-"两者"是一家男鞋品牌商城网站该网站使用Node.js框架 蜂巢 开发，其CSS采用了“响应式布局”，能够自动适应移动设备，完全符合现代互联网标准（web 2.0/3.0）。按照客户的要求，该网站计划于今年秋季上线。
-
-<img src="screens/both-0.png" width="400px">
-
-<img src="screens/both-1.png" width="400px">
-
-<img src="screens/both-2.png" width="400px">
 
 ## 真知保护
 
